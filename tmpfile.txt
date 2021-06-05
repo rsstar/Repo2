@@ -1,1 +1,2 @@
-I am in local b2
+local b2
+
